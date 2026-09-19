@@ -1,7 +1,5 @@
 # Shiv-s-Fitness-Tracker---Privacy-Policy
 
-# Privacy Policy for Fitness Tracker by Shiv
-
 **Effective date: September 19, 2026**
 
 Fitness Tracker by Shiv respects your privacy. This Privacy Policy explains how the application handles information.
